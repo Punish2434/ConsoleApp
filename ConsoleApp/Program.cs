@@ -5,7 +5,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 long fact = GetFactorial(number);
 
-Console.WriteLine("{0} factorial is {1}", number, fact);
+Console.WriteLine("{0} factorial are {1}", number, fact);
 
 Console.ReadKey();
 
